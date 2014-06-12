@@ -1,0 +1,13 @@
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Vendor\Vendor\bin\Debug\Vendor.exe.config
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Vendor\Vendor\bin\Debug\Vendor.exe
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Vendor\Vendor\bin\Debug\Vendor.pdb
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Vendor\Vendor\obj\Debug\Vendor.csprojResolveAssemblyReference.cache
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Vendor\Vendor\obj\Debug\Vendor.Management.resources
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Vendor\Vendor\obj\Debug\Vendor.Properties.Resources.resources
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Vendor\Vendor\obj\Debug\Vendor.csproj.GenerateResource.Cache
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Vendor\Vendor\obj\Debug\Vendor.exe
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Vendor\Vendor\obj\Debug\Vendor.pdb
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Vendor\Vendor\obj\Debug\Vendor.SERVER.ConfigurationForm.resources
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Vendor\Vendor\obj\Debug\Vendor.SERVER.ServerForm.resources
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Vendor\Vendor\obj\Debug\Vendor.ProcessRequest.resources
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Vendor\Vendor\obj\Debug\Vendor.ProcessBill.resources
